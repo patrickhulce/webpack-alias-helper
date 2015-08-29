@@ -1,0 +1,27 @@
+{
+  "name": "webpack-alias-helper",
+  "version": "1.0.0",
+  "description": "Helper for webpack aliasing in modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Patrick Hulce",
+    "email": "patrick.hulce@gmail.com",
+    "url": "http://patrickhulce.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickhulce/webpack-alias-helper"
+  },
+  "keywords": [
+    "webpack",
+    "alias"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickhulce/webpack-alias-helper/issues"
+  },
+  "homepage": "https://github.com/patrickhulce/webpack-alias-helper"
+}
